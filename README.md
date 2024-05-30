@@ -1,5 +1,5 @@
 # urlencode
-Simple utility for encoding to url-encoded URLs.
+Simple utility for encoding URLs to url-encoded URLs.
 
 ### Flags
 None currently implemented.
